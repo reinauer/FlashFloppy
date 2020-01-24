@@ -1,4 +1,4 @@
-TOOL_PREFIX = arm-none-eabi-
+TOOL_PREFIX = arm-eabi-
 CC = $(TOOL_PREFIX)gcc
 OBJCOPY = $(TOOL_PREFIX)objcopy
 LD = $(TOOL_PREFIX)ld
